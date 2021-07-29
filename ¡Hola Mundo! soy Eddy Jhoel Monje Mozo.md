@@ -1,0 +1,5 @@
+- 👋 ¡Hola Mundo! soy Eddy Jhoel Monje Mozo
+- 👀 Soy programador web Front-End y Back-End
+- 🌱 Me gusta aprender cosas nuevas y enseñarle a personas que lo necesitan
+- 💞️ Enamorado del diseño web em HTML5, CSS3 y JavaScript
+- 📫 Puedes comunicarte conmigo "eddymonje01@gmail.com"
